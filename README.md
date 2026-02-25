@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Brainteaser
 |  |
 | ------- |

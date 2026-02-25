@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |

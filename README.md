@@ -32,11 +32,13 @@
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |

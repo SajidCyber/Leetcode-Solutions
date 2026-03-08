@@ -54,6 +54,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

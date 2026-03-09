@@ -62,6 +62,7 @@
 | [1470-shuffle-the-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0303-range-sum-query-immutable](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |

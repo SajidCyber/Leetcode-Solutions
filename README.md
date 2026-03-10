@@ -10,6 +10,7 @@
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -18,6 +19,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
@@ -25,6 +27,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |

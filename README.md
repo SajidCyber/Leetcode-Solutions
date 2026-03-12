@@ -40,6 +40,7 @@
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->

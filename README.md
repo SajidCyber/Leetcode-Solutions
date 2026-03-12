@@ -41,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -62,6 +63,7 @@
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +147,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |

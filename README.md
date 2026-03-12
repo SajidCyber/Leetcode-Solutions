@@ -73,6 +73,7 @@
 | [1550-three-consecutive-odds](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Sorting
@@ -136,5 +137,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->

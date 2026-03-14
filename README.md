@@ -56,6 +56,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -164,4 +165,8 @@
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

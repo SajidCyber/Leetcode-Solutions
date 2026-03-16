@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public boolean isAlienSorted(String[] words, String order) {
         HashMap<Character, Integer> hm = new HashMap<>();
@@ -15,7 +13,6 @@ class Solution {
 
         return true;
     }
-
     boolean compare(String w1, String w2, HashMap<Character, Integer> hm) {
         for (int i = 0; i < w1.length() && i < w2.length(); i++) {
             char ch1 = w1.charAt(i);
@@ -29,5 +26,5 @@ class Solution {
 
         if (w1.length() > w2.length()) return false;
         return true;
-    }
+}
 }

@@ -59,6 +59,7 @@
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -175,5 +176,6 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->

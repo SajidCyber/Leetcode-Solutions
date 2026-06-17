@@ -82,6 +82,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation

@@ -64,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
@@ -152,6 +153,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Number Theory

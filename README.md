@@ -69,6 +69,7 @@
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
@@ -205,6 +207,7 @@
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Number Theory
 |  |

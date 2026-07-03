@@ -12,7 +12,7 @@ public:
                 mid++;
             }else if(a[mid]==1){
                 mid++;
-            }
+                }
             else if(a[mid]==2){
                 swap(a[mid],a[high]);
                 high--;

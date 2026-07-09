@@ -234,5 +234,6 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
+| [0183-customers-who-never-order](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->

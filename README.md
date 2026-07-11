@@ -238,5 +238,6 @@
 | [0177-nth-highest-salary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->

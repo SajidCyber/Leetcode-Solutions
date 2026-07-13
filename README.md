@@ -249,4 +249,5 @@
 | [0196-delete-duplicate-emails](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->

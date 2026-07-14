@@ -42,6 +42,7 @@
 | [0043-multiply-strings](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |

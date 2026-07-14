@@ -47,6 +47,7 @@
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -142,6 +143,7 @@
 | [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -327,6 +329,7 @@
 | [0036-valid-sudoku](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -334,8 +337,13 @@
 | [0022-generate-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

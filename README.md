@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +94,7 @@
 | [0018-4sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0041-first-missing-positive) |

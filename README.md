@@ -27,6 +27,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0018-4sum) |
@@ -254,4 +256,8 @@
 | [0585-investments-in-2016](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

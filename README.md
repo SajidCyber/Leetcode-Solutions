@@ -39,6 +39,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
@@ -239,6 +241,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |

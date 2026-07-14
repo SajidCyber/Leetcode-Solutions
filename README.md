@@ -46,6 +46,7 @@
 | [0065-valid-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -67,6 +68,7 @@
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |

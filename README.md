@@ -45,6 +45,7 @@
 | [0058-length-of-last-word](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -261,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

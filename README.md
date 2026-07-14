@@ -48,6 +48,7 @@
 | [0042-trapping-rain-water](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -113,6 +114,7 @@
 | [0049-group-anagrams](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |

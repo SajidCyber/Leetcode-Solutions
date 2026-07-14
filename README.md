@@ -112,6 +112,7 @@
 | [0047-permutations-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -219,6 +220,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |

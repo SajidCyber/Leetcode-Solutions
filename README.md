@@ -38,6 +38,7 @@
 | [0022-generate-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |

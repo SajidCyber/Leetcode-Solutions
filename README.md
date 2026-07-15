@@ -141,6 +141,7 @@
 | [0313-super-ugly-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -188,6 +189,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0313-super-ugly-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 ## Breadth-First Search
 |  |
 | ------- |

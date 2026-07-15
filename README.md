@@ -53,6 +53,7 @@
 | [0093-restore-ip-addresses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -93,6 +94,7 @@
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -281,6 +283,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |

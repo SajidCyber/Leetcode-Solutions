@@ -115,6 +115,7 @@
 | [0066-plus-one](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -354,6 +356,7 @@
 | [0040-combination-sum-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## String Matching
 |  |

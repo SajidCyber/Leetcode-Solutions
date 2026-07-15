@@ -76,6 +76,7 @@
 | [0072-edit-distance](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -116,6 +117,7 @@
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -366,4 +368,16 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

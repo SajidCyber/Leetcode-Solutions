@@ -87,6 +87,7 @@
 | [0152-maximum-product-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -294,6 +295,7 @@
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0393-utf-8-validation) |

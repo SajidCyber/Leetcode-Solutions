@@ -196,6 +196,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -261,6 +262,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -283,6 +285,7 @@
 | [0238-product-of-array-except-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -320,6 +323,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |

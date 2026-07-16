@@ -179,6 +179,7 @@
 | [0056-merge-intervals](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -404,6 +406,7 @@
 | [0022-generate-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |

@@ -272,6 +272,7 @@
 | [0029-divide-two-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |

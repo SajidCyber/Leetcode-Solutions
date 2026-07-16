@@ -289,6 +289,7 @@
 | [0260-single-number-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
@@ -410,6 +411,7 @@
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0401-binary-watch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |

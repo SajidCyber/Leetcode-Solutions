@@ -87,6 +87,7 @@
 | [0279-perfect-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |
@@ -257,6 +258,7 @@
 | [0044-wildcard-matching](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 ## Binary Search
 |  |
@@ -289,6 +291,7 @@
 | [0260-single-number-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
@@ -451,4 +454,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

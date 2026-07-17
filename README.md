@@ -308,6 +308,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
@@ -519,4 +520,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

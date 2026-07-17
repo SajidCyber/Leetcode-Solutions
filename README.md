@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0466-count-the-repetitions](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -66,6 +67,7 @@
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0466-count-the-repetitions](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -98,6 +100,7 @@
 | [0338-counting-bits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0466-count-the-repetitions](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
 |  |

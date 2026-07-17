@@ -138,6 +138,7 @@
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -252,6 +253,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -277,6 +279,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 ## Linked List
 |  |
 | ------- |
@@ -529,6 +532,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [3477-fruits-into-baskets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Interactive
 |  |

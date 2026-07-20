@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -425,6 +426,7 @@
 | [0044-wildcard-matching](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |

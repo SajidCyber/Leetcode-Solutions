@@ -32,6 +32,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -245,6 +246,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -292,6 +294,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -325,6 +328,7 @@
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -345,6 +349,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3477-fruits-into-baskets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3477-fruits-into-baskets-ii) |

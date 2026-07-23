@@ -246,6 +246,7 @@
 | [0457-circular-array-loop](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -297,6 +298,7 @@
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -597,6 +599,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List

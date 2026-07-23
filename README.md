@@ -141,6 +141,7 @@
 | [0457-circular-array-loop](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -246,6 +247,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -294,6 +296,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -441,6 +444,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -449,6 +453,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |

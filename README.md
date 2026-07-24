@@ -244,6 +244,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0393-utf-8-validation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
+| [0414-third-maximum-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -300,6 +301,7 @@
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |

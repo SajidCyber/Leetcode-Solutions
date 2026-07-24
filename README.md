@@ -244,6 +244,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0393-utf-8-validation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
+| [0406-queue-reconstruction-by-height](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -301,6 +302,7 @@
 | [0217-contains-duplicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -588,10 +590,12 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [3477-fruits-into-baskets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |

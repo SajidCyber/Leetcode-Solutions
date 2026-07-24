@@ -449,6 +449,7 @@
 | [0042-trapping-rain-water](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -553,11 +554,13 @@
 | ------- |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -568,6 +571,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Geometry
 |  |

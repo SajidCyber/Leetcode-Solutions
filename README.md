@@ -94,6 +94,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -157,6 +158,7 @@
 | [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -332,6 +334,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -366,6 +369,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -492,6 +496,7 @@
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |

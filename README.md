@@ -121,6 +121,7 @@
 | [0392-is-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0466-count-the-repetitions](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
+| [0486-predict-the-winner](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Hash Table
@@ -193,6 +194,7 @@
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +262,7 @@
 | [0457-circular-array-loop](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -354,6 +357,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -511,6 +515,7 @@
 | [0273-integer-to-english-words](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Number Theory
 |  |

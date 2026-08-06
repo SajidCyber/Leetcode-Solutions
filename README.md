@@ -207,6 +207,7 @@
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
@@ -708,4 +709,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -127,6 +129,7 @@
 | [0877-stone-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -385,6 +388,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |

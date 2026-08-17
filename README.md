@@ -132,6 +132,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -216,6 +217,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -310,6 +312,7 @@
 | [1470-shuffle-the-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1550-three-consecutive-odds) |
+| [1563-stone-game-v](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -387,6 +390,7 @@
 | [0877-stone-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |

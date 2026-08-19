@@ -166,6 +166,7 @@
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2549-count-distinct-numbers-on-board](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +309,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -408,6 +410,7 @@
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0769-max-chunks-to-make-sorted](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1386-cinema-seat-allocation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -460,6 +463,7 @@
 | [0401-binary-watch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1386-cinema-seat-allocation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |

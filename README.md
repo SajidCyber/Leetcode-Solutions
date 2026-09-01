@@ -182,6 +182,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -343,6 +344,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -480,6 +482,7 @@
 | [0645-set-mismatch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -621,6 +624,7 @@
 | [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -688,6 +692,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Rolling Hash
 |  |
 | ------- |

@@ -663,6 +663,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Tree
 |  |
@@ -675,6 +676,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
 | ------- |

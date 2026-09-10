@@ -316,6 +316,7 @@
 | [0877-stone-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -630,6 +631,7 @@
 | [0054-spiral-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -701,6 +703,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0841-keys-and-rooms](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |

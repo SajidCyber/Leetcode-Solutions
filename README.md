@@ -120,6 +120,7 @@
 | [0045-jump-game-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -198,6 +199,7 @@
 | [0066-plus-one](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -721,6 +723,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 ## Binary Indexed Tree
 |  |

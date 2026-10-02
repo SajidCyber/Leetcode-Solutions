@@ -1,23 +1,22 @@
 class Solution {
 public:
-    void backtrack(vector<string>& result, string current, int open, int close, int max_pairs) {
-        if (current.length() == max_pairs * 2) {
+    void backtrack(int open, int close, int n, string current, vector<string>& result) {
+        if (current.length() == 2 * n) {
             result.push_back(current);
             return;
         }
-
-        if (open < max_pairs) {
-            backtrack(result, current + '(', open + 1, close, max_pairs);
-        }
         
+        if (open < n) {
+            backtrack(open + 1, close, n, current + "(", result);
+        }
         if (close < open) {
-            backtrack(result, current + ')', open, close + 1, max_pairs);
+            backtrack(open, close + 1, n, current + ")", result);
         }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> result;
-        backtrack(result, "", 0, 0, n);
+        backtrack(0, 0, n, "", result);
         return result;
     }
 };

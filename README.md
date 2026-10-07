@@ -77,6 +77,7 @@
 | [0224-basic-calculator](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -698,6 +699,7 @@
 | [0089-gray-code](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -760,6 +762,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0841-keys-and-rooms](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |

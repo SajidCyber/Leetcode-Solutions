@@ -366,6 +366,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -429,6 +430,7 @@
 | [1096-brace-expansion-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2363-merge-similar-items) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -510,6 +512,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3477-fruits-into-baskets-ii) |

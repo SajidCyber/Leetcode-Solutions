@@ -267,6 +267,7 @@
 | [3870-count-commas-in-range](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -394,6 +395,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -882,6 +885,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Nim Game
 |  |
 | ------- |

@@ -356,6 +356,7 @@
 | [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -653,6 +654,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -715,6 +717,7 @@
 | [0079-word-search](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -749,6 +752,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -797,6 +801,7 @@
 | [0841-keys-and-rooms](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -916,6 +921,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SajidCyber/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bracket Sequences
